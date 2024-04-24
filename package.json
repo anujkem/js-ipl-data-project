@@ -1,7 +1,7 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
+  "description": "IPL Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/anujkem/js-ipl-project.git"
   },
-  "author": "",
+  "author": "anuj kem",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anujkem/js-ipl-project/issues"
@@ -19,5 +19,8 @@
   "dependencies": {
     "csv-parser": "^3.0.0",
     "jsonfile": "^6.1.0"
-  }
+  },
+  "keywords": [
+    "IPL"
+  ]
 }
