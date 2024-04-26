@@ -11,3 +11,5 @@
 7. Find the strike rate of a batsman for each season
 8. Find the highest number of times one player has been dismissed by another player
 9. Find the bowler with the best economy in super overs
+
+## All Output are in the dir src/public/output
